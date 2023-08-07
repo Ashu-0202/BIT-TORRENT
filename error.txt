@@ -1,0 +1,1992 @@
+Error in reading msg:  read udp [2409:40c2:1007:9551:674b:b5b3:85ef:3ede]:44104->[64:ff9b::67e0:b6f6]:6969: i/o timeout
+Connect Successful
+Announce response size:  1220
+Connect Successful
+Announce response size:  1220
+Connect Successful
+Announce response size:  98
+Connect Successful
+Announce response size:  452
+Connect Successful
+Announce response size:  1220
+Connect Successful
+Error in Announce:  read udp [2409:40c2:1007:9551:674b:b5b3:85ef:3ede]:52936->[2a03:94e0:ffff:185:243:218:0:213]:80: i/o timeout
+Error in establishing connection:  dial udp: lookup tracker.0x.tf: no such host
+EOF
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+EOF
+Connection Ended:  46.232.210.98
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  46.232.210.98
+Connection Rebuilt:  100.8.128.248
+EOF
+EOF
+Requesting piece: 10
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  92.37.106.118
+EOF
+Requesting piece: 11
+EOF
+Connection Closed:  105.186.163.152
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Requesting piece: 13
+EOF
+Connection Closed:  110.147.218.71
+EOF
+Connection Ended:  46.232.210.98
+Requesting piece: 20
+Requesting piece: 21
+Requesting piece: 22
+Requesting piece: 24
+Requesting piece: 25
+Requesting piece: 26
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Requesting piece: 28
+Requesting piece: 29
+Requesting piece: 30
+Requesting piece: 31
+Requesting piece: 32
+Requesting piece: 33
+Requesting piece: 34
+Requesting piece: 35
+Requesting piece: 36
+Requesting piece: 37
+Requesting piece: 38
+Requesting piece: 39
+Requesting piece: 40
+Requesting piece: 41
+Requesting piece: 42
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Requesting piece: 45
+Requesting piece: 46
+Requesting piece: 47
+Requesting piece: 48
+Requesting piece: 49
+Requesting piece: 50
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 52
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Requesting piece: 54
+Requesting piece: 55
+Requesting piece: 57
+Requesting piece: 58
+recieved piece:  32   1
+Requesting piece: 68
+EOF
+Connection Ended:  46.232.210.98
+Requesting piece: 70
+Requesting piece: 71
+recieved piece:  68   2
+Requesting piece: 72
+recieved piece:  20   3
+Requesting piece: 73
+recieved piece:  25   4
+Requesting piece: 75
+recieved piece:  72   5
+Requesting piece: 76
+Requesting piece: 78
+Connection Rebuilt:  46.232.210.98
+recieved piece:  76   6
+Requesting piece: 80
+EOF
+Connection Ended:  186.107.90.6
+recieved piece:  36   7
+Requesting piece: 83
+recieved piece:  80   8
+Requesting piece: 84
+recieved piece:  83   9
+Requesting piece: 91
+recieved piece:  28   10
+Requesting piece: 92
+recieved piece:  84   11
+Requesting piece: 93
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  73   12
+Requesting piece: 96
+recieved piece:  75   13
+Requesting piece: 98
+recieved piece:  37   14
+Requesting piece: 99
+recieved piece:  93   15
+Requesting piece: 100
+recieved piece:  91   16
+Requesting piece: 102
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Requesting piece: 105
+recieved piece:  45   17
+Requesting piece: 108
+EOF
+Connection Ended:  46.232.210.98
+recieved piece:  100   18
+Requesting piece: 109
+Connection Rebuilt:  186.107.90.6
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  102   19
+Requesting piece: 117
+recieved piece:  109   20
+Requesting piece: 118
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  46.232.210.98
+recieved piece:  118   21
+Requesting piece: 123
+recieved piece:  98   22
+Requesting piece: 124
+EOF
+Connection Ended:  46.232.210.98
+recieved piece:  117   23
+Requesting piece: 126
+Requesting piece: 129
+recieved piece:  123   24
+Requesting piece: 131
+recieved piece:  126   25
+Requesting piece: 135
+Connection Rebuilt:  46.232.210.98
+recieved piece:  131   26
+Requesting piece: 140
+recieved piece:  135   27
+Requesting piece: 142
+recieved piece:  140   28
+Requesting piece: 144
+EOF
+Connection Ended:  46.232.210.98
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  99   29
+Requesting piece: 153
+recieved piece:  144   30
+Requesting piece: 154
+recieved piece:  124   31
+Requesting piece: 155
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  142   32
+Requesting piece: 159
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 160
+Requesting piece: 161
+recieved piece:  47   33
+Requesting piece: 163
+recieved piece:  42   34
+Requesting piece: 164
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  154   35
+Requesting piece: 169
+recieved piece:  24   36
+Requesting piece: 170
+recieved piece:  159   37
+Requesting piece: 171
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  22   38
+Requesting piece: 177
+recieved piece:  49   39
+Requesting piece: 178
+EOF
+Connection Closed:  46.232.210.98
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  171   40
+Requesting piece: 183
+recieved piece:  169   41
+Requesting piece: 184
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 189
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  183   42
+Requesting piece: 192
+recieved piece:  184   43
+Requesting piece: 197
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  46.232.210.98
+EOF
+Connection Ended:  186.107.90.6
+recieved piece:  192   44
+Requesting piece: 199
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  155   45
+Requesting piece: 206
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 207
+recieved piece:  199   46
+Requesting piece: 209
+recieved piece:  197   47
+Requesting piece: 211
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  58   48
+Requesting piece: 217
+recieved piece:  71   49
+Requesting piece: 218
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  39   50
+Requesting piece: 222
+recieved piece:  209   51
+Requesting piece: 223
+recieved piece:  57   52
+Requesting piece: 224
+recieved piece:  164   53
+Requesting piece: 226
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  26   54
+Requesting piece: 230
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  223   55
+Requesting piece: 237
+recieved piece:  153   56
+Requesting piece: 238
+recieved piece:  108   57
+Requesting piece: 239
+recieved piece:  211   58
+Requesting piece: 240
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  170   59
+Requesting piece: 242
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  46.232.210.98
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  237   60
+Requesting piece: 252
+recieved piece:  177   61
+Requesting piece: 254
+recieved piece:  96   62
+Requesting piece: 257
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 259
+recieved piece:  206   63
+Requesting piece: 262
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  33   64
+Requesting piece: 265
+recieved piece:  252   65
+Requesting piece: 266
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  240   66
+Requesting piece: 269
+recieved piece:  178   67
+Requesting piece: 276
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  266   68
+Requesting piece: 278
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  129   69
+Requesting piece: 282
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  163   70
+Requesting piece: 286
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 287
+recieved piece:  278   71
+Requesting piece: 289
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  289   72
+Requesting piece: 295
+recieved piece:  40   73
+Requesting piece: 298
+recieved piece:  269   74
+Requesting piece: 300
+Requesting piece: 299
+recieved piece:  217   75
+Requesting piece: 302
+recieved piece:  295   76
+Requesting piece: 304
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  254   77
+Requesting piece: 306
+recieved piece:  304   78
+Requesting piece: 311
+recieved piece:  239   79
+Requesting piece: 313
+recieved piece:  218   80
+Requesting piece: 314
+recieved piece:  226   81
+Requesting piece: 317
+recieved piece:  311   82
+Requesting piece: 318
+recieved piece:  262   83
+Requesting piece: 319
+recieved piece:  92   84
+Requesting piece: 320
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 324
+recieved piece:  34   85
+Requesting piece: 325
+recieved piece:  300   86
+Requesting piece: 327
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  318   87
+Requesting piece: 332
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  332   88
+Requesting piece: 336
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  46.232.210.98
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  336   89
+Requesting piece: 343
+recieved piece:  306   90
+Requesting piece: 347
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  313   91
+Requesting piece: 349
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 351
+recieved piece:  343   92
+Requesting piece: 352
+recieved piece:  276   93
+Requesting piece: 355
+recieved piece:  286   94
+Requesting piece: 357
+recieved piece:  327   95
+Requesting piece: 358
+recieved piece:  352   96
+Requesting piece: 360
+recieved piece:  349   97
+Requesting piece: 365
+recieved piece:  325   98
+Requesting piece: 366
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  360   99
+Requesting piece: 368
+recieved piece:  282   100
+Requesting piece: 371
+recieved piece:  242   101
+Requesting piece: 373
+recieved piece:  368   102
+Requesting piece: 374
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 376
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  224   103
+Requesting piece: 382
+recieved piece:  347   104
+Requesting piece: 383
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  374   105
+Requesting piece: 385
+recieved piece:  358   106
+Requesting piece: 388
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  55   107
+Requesting piece: 391
+recieved piece:  357   108
+Requesting piece: 392
+recieved piece:  314   109
+Requesting piece: 393
+recieved piece:  385   110
+Requesting piece: 394
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  46.232.210.98
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  394   111
+recieved piece:  366   112
+Requesting piece: 404
+Requesting piece: 403
+recieved piece:  238   113
+Requesting piece: 405
+recieved piece:  70   114
+Requesting piece: 407
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  46   115
+Requesting piece: 411
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  403   116
+Requesting piece: 414
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 416
+recieved piece:  414   117
+Requesting piece: 421
+recieved piece:  265   118
+Requesting piece: 422
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  355   119
+Requesting piece: 427
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  388   120
+Requesting piece: 429
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  257   121
+Requesting piece: 430
+recieved piece:  383   122
+Requesting piece: 431
+recieved piece:  41   123
+Requesting piece: 432
+recieved piece:  421   124
+Requesting piece: 434
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  392   125
+Requesting piece: 437
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 443
+recieved piece:  230   126
+Requesting piece: 444
+recieved piece:  434   127
+Requesting piece: 445
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  445   128
+Requesting piece: 451
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  451   129
+Requesting piece: 459
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  382   130
+Requesting piece: 461
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  319   131
+Requesting piece: 463
+recieved piece:  29   132
+Requesting piece: 464
+recieved piece:  30   133
+Requesting piece: 466
+recieved piece:  365   134
+Requesting piece: 468
+recieved piece:  429   135
+Requesting piece: 469
+recieved piece:  437   136
+Requesting piece: 470
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  459   137
+Requesting piece: 472
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  431   138
+Requesting piece: 476
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 477
+recieved piece:  407   139
+Requesting piece: 479
+recieved piece:  404   140
+Requesting piece: 483
+recieved piece:  393   141
+Requesting piece: 484
+recieved piece:  472   142
+Requesting piece: 485
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  317   143
+Requesting piece: 490
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  373   144
+Requesting piece: 492
+recieved piece:  485   145
+Requesting piece: 493
+EOF
+Connection Closed:  46.232.210.98
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  469   146
+Requesting piece: 498
+recieved piece:  493   147
+Requesting piece: 502
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  470   148
+Requesting piece: 504
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 506
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  371   149
+Requesting piece: 510
+recieved piece:  502   150
+Requesting piece: 511
+recieved piece:  38   151
+Requesting piece: 513
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  492   152
+Requesting piece: 516
+recieved piece:  298   153
+Requesting piece: 517
+recieved piece:  498   154
+Requesting piece: 519
+recieved piece:  511   155
+Requesting piece: 523
+recieved piece:  48   156
+Requesting piece: 524
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  302   157
+Requesting piece: 527
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  523   158
+Requesting piece: 529
+recieved piece:  411   159
+Requesting piece: 531
+EOF
+Connection Closed:  46.232.210.98
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  427   160
+Requesting piece: 541
+recieved piece:  519   161
+Requesting piece: 542
+recieved piece:  529   162
+Requesting piece: 543
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 544
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  543   163
+Requesting piece: 550
+recieved piece:  504   164
+Requesting piece: 551
+recieved piece:  516   165
+Requesting piece: 554
+recieved piece:  542   166
+Requesting piece: 556
+recieved piece:  550   167
+Requesting piece: 560
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  560   168
+Requesting piece: 565
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  422   169
+Requesting piece: 567
+recieved piece:  556   170
+Requesting piece: 569
+recieved piece:  484   171
+Requesting piece: 571
+recieved piece:  527   172
+Requesting piece: 576
+recieved piece:  565   173
+Requesting piece: 577
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  468   174
+Requesting piece: 578
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  577   175
+Requesting piece: 584
+recieved piece:  479   176
+Requesting piece: 586
+recieved piece:  569   177
+Requesting piece: 587
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 588
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  21   178
+Requesting piece: 590
+read tcp 192.168.125.9:41752->46.232.210.98:13409: read: connection reset by peer
+Connection Closed:  46.232.210.98
+recieved piece:  463   179
+Requesting piece: 592
+recieved piece:  490   180
+Requesting piece: 593
+recieved piece:  320   181
+Requesting piece: 597
+recieved piece:  584   182
+Requesting piece: 598
+recieved piece:  554   183
+Requesting piece: 599
+recieved piece:  551   184
+Requesting piece: 600
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 602
+recieved piece:  444   185
+Requesting piece: 603
+recieved piece:  531   186
+Requesting piece: 606
+recieved piece:  587   187
+Requesting piece: 607
+recieved piece:  461   188
+Requesting piece: 609
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  598   189
+Requesting piece: 611
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 617
+recieved piece:  611   190
+Requesting piece: 618
+recieved piece:  576   191
+Requesting piece: 620
+recieved piece:  607   192
+Requesting piece: 621
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  578   193
+Requesting piece: 623
+Error in reading msg:  read udp [2409:40c2:1007:9551:674b:b5b3:85ef:3ede]:34926->[64:ff9b::67e0:b6f6]:6969: i/o timeout
+recieved piece:  618   194
+Requesting piece: 625
+Connect Successful
+Announce response size:  1220
+EOF
+Connection Closed:  46.232.210.98
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  625   195
+Requesting piece: 632
+recieved piece:  600   196
+Requesting piece: 633
+recieved piece:  621   197
+Requesting piece: 636
+recieved piece:  606   198
+Requesting piece: 638
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  599   199
+Requesting piece: 640
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 641
+recieved piece:  632   200
+Requesting piece: 642
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  510   201
+EOF
+Connection Closed:  46.232.210.98
+Requesting piece: 650
+recieved piece:  642   202
+Requesting piece: 651
+recieved piece:  636   203
+Requesting piece: 652
+recieved piece:  405   204
+Requesting piece: 653
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  571   205
+Requesting piece: 658
+recieved piece:  483   206
+Requesting piece: 659
+recieved piece:  430   207
+Requesting piece: 661
+recieved piece:  651   208
+Requesting piece: 662
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 664
+recieved piece:  466   209
+Requesting piece: 665
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  652   210
+Requesting piece: 670
+recieved piece:  592   211
+Requesting piece: 672
+recieved piece:  662   212
+Requesting piece: 673
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  432   213
+Requesting piece: 678
+recieved piece:  623   214
+Requesting piece: 679
+recieved piece:  673   215
+Requesting piece: 681
+Connect Successful
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Announce response size:  1220
+recieved piece:  593   216
+Requesting piece: 683
+recieved piece:  670   217
+Requesting piece: 684
+Connect Successful
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 686
+recieved piece:  681   218
+Requesting piece: 687
+recieved piece:  633   219
+Requesting piece: 688
+Announce response size:  98
+EOF
+Connection Closed:  191.112.219.234
+Connect Successful
+Announce response size:  506
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  638   220
+Requesting piece: 695
+recieved piece:  659   221
+Requesting piece: 697
+recieved piece:  687   222
+Requesting piece: 698
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  684   223
+Requesting piece: 701
+recieved piece:  567   224
+Requesting piece: 702
+recieved piece:  679   225
+Requesting piece: 704
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  620   226
+Requesting piece: 706
+recieved piece:  698   227
+Requesting piece: 707
+recieved piece:  701   228
+Requesting piece: 709
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  707   229
+Requesting piece: 716
+recieved piece:  709   230
+Requesting piece: 718
+recieved piece:  476   231
+Requesting piece: 721
+recieved piece:  716   232
+Requesting piece: 722
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 723
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  718   233
+Requesting piece: 725
+recieved piece:  704   234
+Requesting piece: 726
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connect Successful
+recieved piece:  725   235
+Requesting piece: 734
+Announce response size:  1220
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  46.232.210.98
+Connect Successful
+recieved piece:  697   236
+Requesting piece: 738
+recieved piece:  722   237
+Requesting piece: 740
+recieved piece:  683   238
+Requesting piece: 741
+recieved piece:  658   239
+Requesting piece: 742
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  734   240
+Requesting piece: 744
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 745
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  740   241
+Requesting piece: 747
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  744   242
+Requesting piece: 754
+recieved piece:  747   243
+Requesting piece: 757
+recieved piece:  650   244
+Requesting piece: 759
+Connection Closed:  189.26.187.163
+Requesting piece: 760
+recieved piece:  754   245
+Requesting piece: 761
+recieved piece:  757   246
+Requesting piece: 762
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  761   247
+Requesting piece: 768
+Connection Rebuilt:  189.26.187.163
+Requesting piece: 770
+recieved piece:  762   248
+Requesting piece: 771
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  46.232.210.98
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  768   249
+Requesting piece: 777
+recieved piece:  771   250
+Requesting piece: 778
+Error in Announce:  read udp [2409:40c2:1007:9551:674b:b5b3:85ef:3ede]:54762->[2a03:94e0:ffff:185:243:218:0:213]:80: i/o timeout
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 779
+recieved piece:  778   251
+Requesting piece: 781
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  777   252
+Requesting piece: 787
+recieved piece:  672   253
+Requesting piece: 789
+recieved piece:  781   254
+Requesting piece: 791
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  787   255
+Requesting piece: 794
+EOF
+Connection Closed:  46.232.210.98
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  726   256
+Requesting piece: 796
+recieved piece:  791   257
+Requesting piece: 797
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  794   258
+Requesting piece: 804
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  797   259
+Requesting piece: 806
+recieved piece:  804   260
+Requesting piece: 810
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  806   261
+Requesting piece: 812
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  810   262
+Requesting piece: 818
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Error in establishing connection:  dial udp: lookup tracker.0x.tf: no such host
+Connection Rebuilt:  100.8.128.248
+recieved piece:  653   263
+Requesting piece: 824
+recieved piece:  818   264
+Requesting piece: 826
+recieved piece:  812   265
+Requesting piece: 827
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 828
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  738   266
+Requesting piece: 829
+recieved piece:  702   267
+Requesting piece: 830
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  827   268
+Requesting piece: 831
+recieved piece:  826   269
+Requesting piece: 832
+read tcp 192.168.125.9:44744->179.61.197.49:59625: read: connection reset by peer
+EOF
+Connection Ended:  179.61.197.49
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 839
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  759   270
+Requesting piece: 841
+EOF
+Connection Closed:  189.26.187.163
+recieved piece:  831   271
+Requesting piece: 844
+recieved piece:  832   272
+Requesting piece: 845
+recieved piece:  741   273
+Requesting piece: 846
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  796   274
+Requesting piece: 849
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  517   275
+Requesting piece: 851
+Connection Rebuilt:  189.26.187.163
+Requesting piece: 852
+recieved piece:  844   276
+Requesting piece: 853
+recieved piece:  845   277
+Requesting piece: 854
+EOF
+Connection Closed:  189.26.187.163
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  665   278
+Requesting piece: 860
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  853   279
+Requesting piece: 862
+recieved piece:  854   280
+Requesting piece: 863
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  829   281
+Requesting piece: 867
+recieved piece:  640   282
+Requesting piece: 868
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  862   283
+Requesting piece: 871
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 872
+recieved piece:  863   284
+Requesting piece: 873
+recieved piece:  688   285
+Requesting piece: 874
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  789   286
+Requesting piece: 876
+Requesting piece: 883
+recieved piece:  871   287
+Requesting piece: 884
+Requesting piece: 887
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Requesting piece: 889
+Requesting piece: 890
+recieved piece:  873   288
+Requesting piece: 891
+Requesting piece: 892
+Requesting piece: 896
+Requesting piece: 898
+Requesting piece: 899
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Requesting piece: 901
+recieved piece:  706   289
+Requesting piece: 902
+recieved piece:  609   290
+Requesting piece: 903
+EOF
+Connection Closed:  94.69.29.236
+Requesting piece: 904
+recieved piece:  846   291
+Requesting piece: 905
+Requesting piece: 906
+Requesting piece: 907
+Requesting piece: 908
+recieved piece:  884   292
+Requesting piece: 910
+Connection Rebuilt:  94.69.29.236
+Requesting piece: 911
+Requesting piece: 912
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Requesting piece: 915
+Requesting piece: 916
+EOF
+Connection Closed:  46.232.210.98
+Requesting piece: 917
+Requesting piece: 918
+recieved piece:  867   293
+Requesting piece: 919
+Requesting piece: 920
+recieved piece:  891   294
+Requesting piece: 921
+recieved piece:  887   295
+Requesting piece: 923
+recieved piece:  910   296
+Requesting piece: 930
+recieved piece:  923   297
+Requesting piece: 933
+Requesting piece: 934
+Requesting piece: 935
+Requesting piece: 936
+Requesting piece: 937
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 938
+EOF
+Requesting piece: 940
+EOF
+Connection Closed:  46.232.210.60
+Requesting piece: 943
+recieved piece:  933   298
+Requesting piece: 945
+EOF
+Connection Closed:  81.84.81.111
+recieved piece:  921   299
+Requesting piece: 946
+Connection Rebuilt:  81.84.81.111
+Requesting piece: 948
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  841   300
+Requesting piece: 949
+Requesting piece: 950
+Requesting piece: 951
+recieved piece:  945   301
+Requesting piece: 952
+EOF
+Connection Closed:  80.67.167.37
+recieved piece:  930   302
+Requesting piece: 953
+recieved piece:  952   303
+Requesting piece: 960
+recieved piece:  953   304
+Requesting piece: 963
+recieved piece:  678   305
+Requesting piece: 965
+recieved piece:  960   306
+Requesting piece: 966
+recieved piece:  904   307
+Requesting piece: 969
+Requesting piece: 972
+recieved piece:  934   308
+Requesting piece: 973
+Requesting piece: 974
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  80.67.167.37
+Requesting piece: 976
+recieved piece:  966   309
+recieved piece:  963   310
+Requesting piece: 978
+Requesting piece: 977
+recieved piece:  849   311
+Requesting piece: 979
+recieved piece:  946   312
+Requesting piece: 981
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  977   313
+Requesting piece: 985
+recieved piece:  973   314
+Requesting piece: 991
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  46.232.210.60
+Requesting piece: 995
+Connection Closed:  110.147.218.71
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 997
+recieved piece:  985   315
+Requesting piece: 998
+EOF
+Connection Closed:  94.69.29.236
+recieved piece:  998   316
+Requesting piece: 1002
+recieved piece:  597   317
+Requesting piece: 1003
+recieved piece:  991   318
+Requesting piece: 1005
+recieved piece:  981   319
+Requesting piece: 1006
+recieved piece:  978   320
+Requesting piece: 1007
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  1002   321
+Requesting piece: 1010
+recieved piece:  464   322
+Requesting piece: 1011
+Connection Closed:  178.148.197.89
+recieved piece:  1010   323
+Requesting piece: 1021
+recieved piece:  874   324
+Requesting piece: 1022
+Connection Rebuilt:  178.148.197.89
+Requesting piece: 1024
+recieved piece:  1007   325
+Requesting piece: 0
+EOF
+Connection Closed:  191.251.33.71
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  1021   326
+Requesting piece: 5
+recieved piece:  969   327
+Requesting piece: 7
+Connection Rebuilt:  191.251.33.71
+Requesting piece: 9
+recieved piece:  5   328
+Requesting piece: 10
+recieved piece:  1006   329
+Requesting piece: 11
+recieved piece:  0   330
+Requesting piece: 13
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  10   331
+Requesting piece: 23
+recieved piece:  661   332
+Requesting piece: 43
+EOF
+Connection Closed:  46.232.210.98
+recieved piece:  23   333
+Requesting piece: 59
+recieved piece:  830   334
+Requesting piece: 60
+EOF
+Connection Closed:  191.251.33.71
+recieved piece:  13   335
+Requesting piece: 63
+recieved piece:  59   336
+Requesting piece: 64
+recieved piece:  883   337
+Requesting piece: 66
+recieved piece:  1005   338
+Requesting piece: 67
+recieved piece:  590   339
+Requesting piece: 74
+Connection Rebuilt:  191.251.33.71
+Requesting piece: 79
+recieved piece:  64   340
+Requesting piece: 81
+recieved piece:  63   341
+Requesting piece: 82
+recieved piece:  81   342
+Requesting piece: 94
+EOF
+Connection Closed:  46.232.210.60
+Connection Rebuilt:  46.232.210.98
+Requesting piece: 97
+recieved piece:  94   343
+Requesting piece: 101
+recieved piece:  11   344
+Requesting piece: 107
+recieved piece:  101   345
+Requesting piece: 110
+recieved piece:  82   346
+Requesting piece: 111
+Requesting piece: 113
+recieved piece:  110   347
+Requesting piece: 114
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  114   348
+Requesting piece: 120
+recieved piece:  111   349
+Requesting piece: 125
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  899   350
+Requesting piece: 136
+EOF
+Connection Closed:  80.67.167.37
+recieved piece:  120   351
+Requesting piece: 137
+Requesting piece: 138
+recieved piece:  603   352
+Requesting piece: 139
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  137   353
+Requesting piece: 147
+EOF
+Connection Closed:  185.21.217.49
+recieved piece:  125   354
+Requesting piece: 148
+Connection Rebuilt:  185.21.217.49
+Requesting piece: 149
+EOF
+Connection Closed:  191.251.33.71
+Connection Rebuilt:  100.8.128.248
+Connection Rebuilt:  46.232.210.60
+Requesting piece: 152
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  919   355
+Requesting piece: 157
+recieved piece:  148   356
+Requesting piece: 162
+recieved piece:  7   357
+Requesting piece: 165
+recieved piece:  107   358
+Requesting piece: 166
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  191.251.33.71
+Requesting piece: 179
+Connection Rebuilt:  80.67.167.37
+Requesting piece: 180
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  162   359
+Requesting piece: 182
+recieved piece:  949   360
+Requesting piece: 186
+recieved piece:  860   361
+Requesting piece: 190
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  851   362
+Requesting piece: 193
+recieved piece:  182   363
+Requesting piece: 196
+EOF
+Connection Closed:  185.21.217.49
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  185.21.217.49
+Requesting piece: 203
+recieved piece:  907   364
+Requesting piece: 210
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  84.255.46.27
+recieved piece:  196   365
+Requesting piece: 214
+recieved piece:  166   366
+Requesting piece: 215
+recieved piece:  721   367
+Requesting piece: 221
+recieved piece:  157   368
+Requesting piece: 225
+recieved piece:  214   369
+Requesting piece: 227
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  67   370
+Requesting piece: 232
+recieved piece:  876   371
+recieved piece:  905   372
+Requesting piece: 234
+Requesting piece: 235
+recieved piece:  227   373
+Requesting piece: 247
+recieved piece:  66   374
+Requesting piece: 248
+EOF
+Connection Closed:  46.232.210.60
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  215   375
+Requesting piece: 255
+recieved piece:  247   376
+Requesting piece: 258
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  225   377
+Requesting piece: 264
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  258   378
+Requesting piece: 277
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  937   379
+Requesting piece: 280
+recieved piece:  277   380
+Requesting piece: 284
+recieved piece:  50   381
+Requesting piece: 285
+recieved piece:  136   382
+Requesting piece: 288
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  248   383
+Requesting piece: 293
+recieved piece:  255   384
+Requesting piece: 294
+Connection Rebuilt:  46.232.210.60
+Requesting piece: 296
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  284   385
+Requesting piece: 308
+recieved piece:  917   386
+Requesting piece: 315
+EOF
+Connection Closed:  80.67.167.37
+recieved piece:  391   387
+Requesting piece: 316
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  80.67.167.37
+Requesting piece: 328
+Connection Closed:  187.214.139.137
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  308   388
+Requesting piece: 331
+recieved piece:  264   389
+Requesting piece: 333
+recieved piece:  235   390
+Requesting piece: 335
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  187.214.139.137
+Requesting piece: 339
+recieved piece:  294   391
+Requesting piece: 324
+recieved piece:  331   392
+Requesting piece: 344
+recieved piece:  1022   393
+Requesting piece: 353
+recieved piece:  293   394
+Requesting piece: 354
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  191.251.33.71
+recieved piece:  344   395
+Requesting piece: 361
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  288   396
+Requesting piece: 351
+Connection Rebuilt:  191.251.33.71
+Requesting piece: 367
+recieved piece:  695   397
+Requesting piece: 372
+recieved piece:  361   398
+Requesting piece: 375
+recieved piece:  324   399
+Requesting piece: 381
+recieved piece:  60   400
+Requesting piece: 389
+recieved piece:  52   401
+Requesting piece: 395
+recieved piece:  375   402
+Requesting piece: 396
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  354   403
+Requesting piece: 400
+recieved piece:  333   404
+Requesting piece: 401
+EOF
+Connection Ended:  83.252.198.7
+recieved piece:  824   405
+Requesting piece: 402
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  46.232.210.60
+recieved piece:  396   406
+Requesting piece: 409
+EOF
+Connection Closed:  124.168.81.199
+recieved piece:  165   407
+Requesting piece: 412
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  381   408
+Requesting piece: 420
+read tcp 192.168.125.9:54328->108.170.132.161:7404: read: connection reset by peer
+Connection Ended:  108.170.132.161
+recieved piece:  186   409
+Requesting piece: 424
+read tcp 192.168.125.9:36342->58.168.192.221:26744: read: connection reset by peer
+Connection Ended:  58.168.192.221
+Connection Rebuilt:  124.168.81.199
+recieved piece:  409   410
+Requesting piece: 433
+recieved piece:  31   411
+Requesting piece: 435
+Connection Rebuilt:  58.168.192.221
+Connection Rebuilt:  108.170.132.161
+Connection Rebuilt:  83.252.198.7
+recieved piece:  400   412
+Requesting piece: 442
+recieved piece:  433   413
+Requesting piece: 447
+recieved piece:  351   414
+Requesting piece: 448
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  353   415
+Requesting piece: 452
+recieved piece:  420   416
+Requesting piece: 453
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  447   417
+Requesting piece: 457
+Requesting piece: 465
+recieved piece:  979   418
+Requesting piece: 467
+EOF
+Connection Closed:  80.67.167.37
+recieved piece:  401   419
+Requesting piece: 471
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  457   420
+Requesting piece: 478
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  453   421
+Requesting piece: 487
+recieved piece:  442   422
+Requesting piece: 489
+Connection Rebuilt:  80.67.167.37
+Requesting piece: 491
+recieved piece:  478   423
+Requesting piece: 494
+recieved piece:  335   424
+Requesting piece: 496
+recieved piece:  487   425
+Requesting piece: 503
+recieved piece:  868   426
+Requesting piece: 507
+recieved piece:  494   427
+Requesting piece: 509
+recieved piece:  210   428
+Requesting piece: 515
+recieved piece:  448   429
+Requesting piece: 520
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  908   430
+Requesting piece: 522
+recieved piece:  503   431
+Requesting piece: 526
+recieved piece:  471   432
+Requesting piece: 528
+recieved piece:  509   433
+Requesting piece: 530
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  93.172.51.168
+Connection Closed:  83.130.1.226
+recieved piece:  489   434
+Requesting piece: 535
+recieved piece:  526   435
+Requesting piece: 540
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  43   436
+Requesting piece: 546
+Connection Rebuilt:  83.130.1.226
+Requesting piece: 547
+recieved piece:  530   437
+Requesting piece: 548
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  540   438
+Requesting piece: 558
+recieved piece:  548   439
+Requesting piece: 562
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  558   440
+Requesting piece: 566
+recieved piece:  742   441
+Requesting piece: 570
+read tcp 192.168.125.9:50456->78.131.124.100:24444: read: connection reset by peer
+Connection Closed:  78.131.124.100
+recieved piece:  234   442
+Requesting piece: 579
+recieved piece:  566   443
+Requesting piece: 580
+recieved piece:  535   444
+Requesting piece: 581
+Connection Rebuilt:  78.131.124.100
+recieved piece:  562   445
+Requesting piece: 589
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+read tcp 192.168.125.9:58108->32.220.168.57:48245: read: connection reset by peer
+Connection Ended:  32.220.168.57
+recieved piece:  580   446
+Requesting piece: 596
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  528   447
+Requesting piece: 605
+recieved piece:  589   448
+Requesting piece: 608
+Connection Rebuilt:  32.220.168.57
+recieved piece:  280   449
+Requesting piece: 610
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  596   450
+Requesting piece: 615
+EOF
+Connection Closed:  83.60.28.251
+EOF
+Connection Closed:  80.67.167.37
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  496   451
+Requesting piece: 627
+recieved piece:  608   452
+Requesting piece: 628
+Connection Rebuilt:  83.60.28.251
+recieved piece:  581   453
+Requesting piece: 634
+recieved piece:  615   454
+Requesting piece: 635
+Connection Rebuilt:  80.67.167.37
+Requesting piece: 637
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  903   455
+Requesting piece: 645
+recieved piece:  628   456
+Requesting piece: 647
+recieved piece:  520   457
+Requesting piece: 648
+recieved piece:  635   458
+Requesting piece: 641
+recieved piece:  902   459
+Requesting piece: 656
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  647   460
+Requesting piece: 667
+recieved piece:  641   461
+Requesting piece: 669
+recieved piece:  452   462
+Requesting piece: 674
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  667   463
+Requesting piece: 689
+recieved piece:  669   464
+Requesting piece: 690
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  634   465
+Requesting piece: 693
+recieved piece:  605   466
+Requesting piece: 696
+recieved piece:  190   467
+Requesting piece: 700
+recieved piece:  424   468
+Requesting piece: 705
+Connection Rebuilt:  100.8.128.248
+recieved piece:  689   469
+Requesting piece: 708
+recieved piece:  690   470
+Requesting piece: 710
+recieved piece:  710   471
+Requesting piece: 728
+recieved piece:  708   472
+Requesting piece: 729
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  221   473
+Requesting piece: 736
+read tcp 192.168.125.9:38906->91.140.71.221:32932: read: connection reset by peer
+Connection Closed:  91.140.71.221
+recieved piece:  729   474
+Requesting piece: 723
+recieved piece:  728   475
+Requesting piece: 739
+recieved piece:  696   476
+Requesting piece: 743
+recieved piece:  693   477
+Requesting piece: 746
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  723   478
+Requesting piece: 586
+recieved piece:  648   479
+Requesting piece: 763
+Connection Rebuilt:  91.140.71.221
+recieved piece:  739   480
+Requesting piece: 767
+recieved piece:  586   481
+Requesting piece: 773
+recieved piece:  890   482
+Requesting piece: 774
+recieved piece:  767   483
+Requesting piece: 780
+recieved piece:  773   484
+Requesting piece: 785
+recieved piece:  746   485
+Requesting piece: 792
+Requesting piece: 799
+recieved piece:  785   486
+Requesting piece: 801
+recieved piece:  780   487
+Requesting piece: 805
+recieved piece:  743   488
+Requesting piece: 808
+recieved piece:  674   489
+Requesting piece: 809
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+EOF
+Connection Closed:  80.67.167.37
+recieved piece:  801   490
+Requesting piece: 816
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+Connection Rebuilt:  80.67.167.37
+Requesting piece: 833
+recieved piece:  805   491
+Requesting piece: 834
+recieved piece:  816   492
+Requesting piece: 836
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  920   493
+Requesting piece: 840
+recieved piece:  792   494
+Requesting piece: 842
+Requesting piece: 843
+recieved piece:  524   495
+Requesting piece: 848
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  836   496
+Requesting piece: 855
+recieved piece:  834   497
+Requesting piece: 856
+recieved piece:  315   498
+Requesting piece: 859
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  763   499
+Requesting piece: 877
+recieved piece:  855   500
+Requesting piece: 878
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  856   501
+Requesting piece: 882
+recieved piece:  627   502
+Requesting piece: 886
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  878   503
+Requesting piece: 894
+recieved piece:  809   504
+Requesting piece: 895
+recieved piece:  760   505
+Requesting piece: 897
+recieved piece:  808   506
+Requesting piece: 900
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  842   507
+Requesting piece: 924
+recieved piece:  882   508
+Requesting piece: 927
+recieved piece:  894   509
+Requesting piece: 929
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  929   510
+Requesting piece: 944
+recieved piece:  927   511
+Requesting piece: 938
+recieved piece:  467   512
+Requesting piece: 954
+recieved piece:  944   513
+Requesting piece: 957
+recieved piece:  515   514
+Requesting piece: 961
+recieved piece:  924   515
+Requesting piece: 971
+recieved piece:  957   516
+Requesting piece: 975
+recieved piece:  938   517
+Requesting piece: 982
+recieved piece:  895   518
+Requesting piece: 984
+recieved piece:  546   519
+Requesting piece: 986
+recieved piece:  975   520
+Requesting piece: 989
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  936   521
+Requesting piece: 999
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Ended:  100.8.128.248
+recieved piece:  900   522
+Requesting piece: 1004
+read tcp 192.168.125.9:40754->49.225.94.86:38783: read: connection reset by peer
+Connection Closed:  49.225.94.86
+recieved piece:  989   523
+Requesting piece: 1012
+recieved piece:  982   524
+Requesting piece: 1013
+Connection Rebuilt:  100.8.128.248
+EOF
+Connection Closed:  191.251.33.71
+Error in reading msg:  read udp [2409:40c2:1007:9551:674b:b5b3:85ef:3ede]:52352->[64:ff9b::67e0:b6f6]:6969: i/o timeout
+recieved piece:  886   525
+Requesting piece: 1017
+recieved piece:  877   526
+Requesting piece: 889
+EOF
+Connection Closed:  80.67.167.37
+recieved piece:  74   527
+Requesting piece: 1020
+recieved piece:  579   528
+Requesting piece: 1023
+recieved piece:  1012   529
+Requesting piece: 1
+Connect Successful
+signal: interrupt
