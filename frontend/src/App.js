@@ -1,12 +1,72 @@
 import React, { useState } from 'react';
+import { createClient } from '@supabase/supabase-js';
+
+
+const axios = require('axios');
+
+const supabaseUrl = 'https://wxclovvoqatqaitqunzy.supabase.co';
+const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind4Y2xvdnZvcWF0cWFpdHF1bnp5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcxNDMyMzM2NCwiZXhwIjoyMDI5ODk5MzY0fQ.J0K4otBLDnrf0UhPWtTHonA6ts-Q_fIYbnfdc5VE94U';
+const supabase = createClient(supabaseUrl, supabaseKey);
+
+
+const sendFileUrlToLocalhost = async (fileUrl) => {
+  try {
+    const response = await axios.post('http://localhost:5000/', {
+      fileUrl,
+    });
+    console.log('File URL sent to localhost:', response.data);
+  } catch (error) {
+    console.error('Error sending file URL to localhost:', error.message);
+  }
+};
+
+const uploadFile = async (file, file_path) => {
+  console.log(file_path);
+  if(file!=null){
+  try {
+    const { data, error } = await supabase.storage
+      .from('torrent-file')
+      .upload(file_path, file);
+
+    if (error) {
+      console.error('Error uploading file:', error.message);
+    } else {
+      console.log('File uploaded successfully:', data);
+      const fileUrl = `https://wxclovvoqatqaitqunzy.supabase.co/storage/v1/object/public/torrent-file${file_path}`;
+      
+      sendFileUrlToLocalhost(fileUrl);
+
+    }
+  } catch (error) {
+    console.error('Error uploading file:', error.message);
+  }}
+  else {
+    const {data} = supabase.storage.from('torrentfile').getPublicUrl(file_path);
+    console.log(data.publicUrl);
+  }
+};
 
 function App() {
   const [progress, setProgress] = useState(0);
   const [error, setError] = useState(null);
   const [uploadedFile, setUploadedFile] = useState(null);
 
-  const handleUpload = (file) => {  
-    setUploadedFile(file);
+  const handleUpload = async () => {
+    // Create a file input element
+    const input = document.createElement('input');
+    input.type = 'file';
+
+    // Trigger a click event on the input element
+    input.click();
+
+    // Handle the file selection
+    input.onchange = async (e) => {
+      const file = e.target.files[0];
+      setUploadedFile(file.name);
+
+      // Upload the file to Supabase
+      await uploadFile(file, `/${file.name}`);
+    };
   };
 
   const handleDownload = () => {
@@ -31,7 +91,7 @@ function App() {
           <h1 className="text-4xl font-bold text-gray-800 mb-8">BitTorrent Application</h1>
           <button
             className="block w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 rounded-md mb-6"
-            onClick={() => handleUpload('example-file.txt')}
+            onClick={handleUpload}
           >
             Upload File
           </button>
