@@ -22,26 +22,27 @@ const sendFileUrlToLocalhost = async (fileUrl) => {
 
 const uploadFile = async (file, file_path) => {
   console.log(file_path);
-  if(file!=null){
-  try {
-    const { data, error } = await supabase.storage
-      .from('torrent-file')
-      .upload(file_path, file);
+  if (file != null) {
+    try {
+      const { data, error } = await supabase.storage
+        .from('torrent-file')
+        .upload(file_path, file);
 
-    if (error) {
+      if (error) {
+        console.error('Error uploading file:', error.message);
+      } else {
+        console.log('File uploaded successfully:', data);
+        const fileUrl = `https://wxclovvoqatqaitqunzy.supabase.co/storage/v1/object/public/torrent-file${file_path}`;
+
+        sendFileUrlToLocalhost(fileUrl);
+
+      }
+    } catch (error) {
       console.error('Error uploading file:', error.message);
-    } else {
-      console.log('File uploaded successfully:', data);
-      const fileUrl = `https://wxclovvoqatqaitqunzy.supabase.co/storage/v1/object/public/torrent-file${file_path}`;
-      
-      sendFileUrlToLocalhost(fileUrl);
-
     }
-  } catch (error) {
-    console.error('Error uploading file:', error.message);
-  }}
+  }
   else {
-    const {data} = supabase.storage.from('torrentfile').getPublicUrl(file_path);
+    const { data } = supabase.storage.from('torrentfile').getPublicUrl(file_path);
     console.log(data.publicUrl);
   }
 };
